@@ -1,0 +1,50 @@
+PCPartPicker Part List: https://pcpartpicker.com/list/njcqgt
+
+(AMD)
+CPU: AMD Ryzen 7 3700X 3.6 GHz 8-Core Processor  ($329.99 @ B&H) 
+Motherboard: Asus TUF GAMING X570-PLUS (WI-FI) ATX AM4 Motherboard  ($191.99 @ Newegg) 
+Total Cost: $522
+
+(INTEL) (+$63)
+CPU: Intel Core i7-10700 2.9 GHz 8-Core Processor ($284.99 @ Amazon)
+Motherboard: Asus ROG STRIX Z490-E GAMING ATX LGA1200 Motherboard ($299.99 @ Best Buy)
+Total Cost: $585
+
+CPU DIfference:
+- Intel CPU costs $45 dollars less
+- Intel CPU Speed Rating: 95.3% - 19th vs AMD CPU Speed Rating: 87.3% - 55th
+
+Motherboard Difference:
+- Intel Motherboard costs $108 more
+
+Intel Motherboard:
+-- Onboard Ethernet: 1x2.5 GB/s (✓)
+-- Memory Slots: 4 (Z)
+-- Max Memory: 128 GB (Z)
+-- SATA Transport Speed (6 GB/s): 6 (✗)
+-- M.2 Slots: 2 (Z)
+-- PCI-E Slots (Total): 6 (✓)
+-- WIFI: Wifi 6 (✓)
+-- 2 Way SLI Compatible: Yes (✓)
+-- CrossFire Compatible: Yes (Z)
+
+AMD Motherboard:
+-- Onboard Ethernet: 1x1 GB/s (✗)
+-- Memory Slots: 4 (Z)
+-- Max Memory: 128 GB (Z)
+-- SATA Transport Speed (6 GB/s): 8 (✓)
+-- M.2 Slots: 2 (Z)
+-- PCI-E Slots (Total): 4 (✗)
+-- WIFI: Wifi 5 (✗)
+-- 2 Way SLI Compatible: No (✗)
+-- CrossFire Compatible: Yes (Z)
+
+
+
+
+
+
+
+
+
+
