@@ -59,7 +59,9 @@ done
 # ------------
 curl -L -O https://github.com/derpferpmerp/RandomStuffINeedToHost/raw/main/tool.zip
 sleep 5
+sudo chmod 777 tool.zip
 curl -L -O https://github.com/derpferpmerp/RandomStuffINeedToHost/raw/main/jnbt-1.1.jar
+sudo chmod 777 *
 sleep 5
 mkdir tool; cd tool
 unzip ../tool.zip
