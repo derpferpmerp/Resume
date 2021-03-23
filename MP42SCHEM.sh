@@ -2,9 +2,7 @@
 # Load Packages
 # ------------
 
-sudo apt-get install unzip
-sudo apt-get install tar
-sudo apt-get install ffmpeg
+sudo apt-get install unzip tar ffmpeg
 
 # ------------
 # Get Video
@@ -59,12 +57,15 @@ done
 # ------------
 # Create A Schematic from the Minecraft Block Images
 # ------------
-
+curl -L -O https://github.com/derpferpmerp/RandomStuffINeedToHost/raw/main/tool.zip
+sleep 5
+curl -L -O https://github.com/derpferpmerp/RandomStuffINeedToHost/raw/main/jnbt-1.1.jar
+sleep 5
 mkdir tool; cd tool
 unzip ../tool.zip
-rm -rf __MACOSX
+
 mv ../jnbt-1.1.jar ./
-mv ../tool/config.txt ../Images
+mv ./config.txt ../Images
 cd ../Images
 for f in *; do
    if [ -f "$f" ]; then
