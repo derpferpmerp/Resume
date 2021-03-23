@@ -31,19 +31,18 @@ cd ../
 # ------------
 # Install SpriteCraft
 # ------------
-
+: '
 wget -O SpriteCraft.zip https://www.autosaved.org/files/spritecraft/Spritecraft%201.1.7.zip
 mkdir SpriteCraft
 cd SpriteCraft
 mv ../SpriteCraft.zip ./
 unzip SpriteCraft.zip
 cd ../
-
+'
 # ------------
 # Initialize Other Directories
 # ------------
 
-mkdir Converted
 cd ./Images
 : '
 # ------------
@@ -61,15 +60,15 @@ done
 # Create A Schematic from the Minecraft Block Images
 # ------------
 
-cd ../
-curl -O https://github.com/derpferpmerp/RandomStuffINeedToHost/raw/main/tool.zip
-curl -O https://github.com/derpferpmerp/RandomStuffINeedToHost/raw/main/jnbt-1.1.jar
-unzip tool.zip
-cd tool
+mkdir tool; cd tool
+unzip ../tool.zip
+rm -rf __MACOSX
 mv ../jnbt-1.1.jar ./
+mv ../tool/config.txt ../Images
+cd ../Images
 for f in *; do
    if [ -f "$f" ]; then
-      java -jar ./MapConverter.jar ../Images/"$f" --nodither --force2d --supportid 1 --nobed
+      java -jar ../tool/MapConverter_0.16.jar ./"$f" --nodither --force2d --supportid 1 --nobed
       echo "Converted $f into Schematic"
    fi
 done
