@@ -45,7 +45,7 @@ cd ../
 
 mkdir Converted
 cd ./Images
-
+: '
 # ------------
 # Loop Through Files and Convert them to Minecraft Blocks
 # ------------
@@ -56,11 +56,27 @@ for file in *; do
         echo "Finished Converting $file"
     fi 
 done
+'
+# ------------
+# Create A Schematic from the Minecraft Block Images
+# ------------
 
+cd ../
+curl -O https://github.com/derpferpmerp/RandomStuffINeedToHost/raw/main/tool.zip
+curl -O https://github.com/derpferpmerp/RandomStuffINeedToHost/raw/main/jnbt-1.1.jar
+unzip tool.zip
+cd tool
+mv ../jnbt-1.1.jar ./
+for f in *; do
+   if [ -f "$f" ]; then
+      java -jar ./MapConverter.jar ../Images/"$f" --nodither --force2d --supportid 1 --nobed
+      echo "Converted $f into Schematic"
+   fi
+done
+cd ../
 # ------------
 # Create A .tar.gz Archive and Upload it to Station307.com
 # ------------
 
-cd ../
 tar -czvf "Converted Archive".tar.gz ./Converted
 curl -T "Converted Archive".tar.gz -Lv station307.com 2>&1 | grep located-at
