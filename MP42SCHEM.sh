@@ -41,7 +41,6 @@ cd ../
 # Initialize Other Directories
 # ------------
 
-cd ./Images
 : '
 # ------------
 # Loop Through Files and Convert them to Minecraft Blocks
@@ -58,11 +57,11 @@ done
 # Create A Schematic from the Minecraft Block Images
 # ------------
 curl -L -O https://github.com/derpferpmerp/RandomStuffINeedToHost/raw/main/tool.zip
-sleep 5
+sleep 3
 sudo chmod 777 tool.zip
 curl -L -O https://github.com/derpferpmerp/RandomStuffINeedToHost/raw/main/jnbt-1.1.jar
 sudo chmod 777 *
-sleep 5
+sleep 3
 mkdir tool; cd tool
 unzip ../tool.zip
 
@@ -80,5 +79,5 @@ cd ../
 # Create A .tar.gz Archive and Upload it to Station307.com
 # ------------
 
-tar -czvf "Converted Archive".tar.gz ./Converted
+tar -czvf "Converted Archive".tar.gz ./Images/out
 curl -T "Converted Archive".tar.gz -Lv station307.com 2>&1 | grep located-at
