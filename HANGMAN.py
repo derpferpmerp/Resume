@@ -4,7 +4,7 @@ global CONFIG,data
 CONFIG={
 	"URL":"https://api.npoint.io/3e986e81d537efcb2863",
 	"LIMIT":"",
-	"DEV":False# Change to True if Developing
+	"DEV":False# Change to True if In Development Process
 }
 
 def urlget(p):return str(input(str(p)))
@@ -118,6 +118,7 @@ def combine(lst):return " ".join([str(x) for x in lst])
 # The function that loops over itself until the user is either out of lives or has completed the word.
 def guessLetter():
 	ONGOING=True
+	print(combine(list([("_") for x in range(len(word))]))+"\n")
 	d_out,d_in,ltrlist,lives=generateSpaces(dct,{},input("Letter: "),[],9)
 	print(f"Lives Left: {lives}")
 	while ONGOING==True:
