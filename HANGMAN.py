@@ -4,7 +4,7 @@ global CONFIG,data
 CONFIG={
 	"URL":"https://api.npoint.io/3e986e81d537efcb2863",
 	"LIMIT":"",
-	"DEV":True
+	"DEV":False# Change to True if Developing
 }
 
 def urlget(p):return str(input(str(p)))
