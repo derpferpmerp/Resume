@@ -28,6 +28,8 @@
 | -- The word "tack X" or "hyphen X" means using the option X, and is written like this: -X
 |    For example it\'s like setting the x coordinate a minecraft command, like how /fill X Y Z
 |    is really /fill -x XCOORD -y YCOORD -z ZCOORD, where -x,-y,and -z represent the x, y, and z parameter.
+--------------------------------------------------------
+
 
 
 
