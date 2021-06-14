@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## COLE FLEMING
+[[ Website ]](beacons.page/colefleming) • [[ cmfleming@eths202.org ]](mailto:cmfleming@eths202.org)
 
-You can use the [editor on GitHub](https://github.com/derpferpmerp/RandomStuffINeedToHost/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Creative teen who is passionate about software development, music, and math.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## EDUCATION
 
-### Markdown
+**Evanston Township High School** , _Evanston, IL. _
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Currently a Senior. Anticipated graduation: 2022
 
-```markdown
-Syntax highlighted code block
+**North Shore Country Day,** _Winnetka, IL_
 
-# Header 1
-## Header 2
-### Header 3
+Graduate - 2018
 
-- Bulleted
-- List
+**AWARDS + HONORS**
 
-1. Numbered
-2. List
++ ETHS - High Honor Roll, 3.8 GPA, National Honors Society
++ IL Statewide Sonata piano competition - Silver medalist
++ ETHS- Mathematics department award
 
-**Bold** and _Italic_ and `Code` text
+**EXPERIENCE**
 
-[Link](url) and ![Image](src)
-```
++ **(Current) Musical Performer:** Play the piano for private events. Have played for weddings, funerals, and personal holiday parties.
++ **(2016-2020) Lead Drummer:** Lead drummer in local teen band. Performed at art festivals, House of Blue, The Wild Hare, and local events.
++ **(2019-2020) ETHS Manufacturing and Robotics Center:** Served as the 3D printer assistant and support with vendors.
++ **(2018) North Shore Country Day Robotics TA:** Served as the teacher&#39;s assistant for seventh grade robotics class.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**ACTIVITES**
 
-### Jekyll Themes
+**Piano and Drums study and performance: Active musician.**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/derpferpmerp/RandomStuffINeedToHost/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Participation in school bands and annual recitals for both drums and piano. Private piano and drum lessons weekly for 10 years.
 
-### Support or Contact
+**School Involvement and Sports:**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
++ Youth Technology Club - 3D printer expert (2 years), 
++ High School Swim Team (Season and Intramural, 2 Years), 
++ Beth Emmet soup kitchen, 
++ Volunteer musician at block parties,
++ Evanston Art Center Volunteer for Holiday Bazaar Setup.
+
+**Summer Engineering Programs:**
+
++ Freshman Year:
+  + Northwestern Center for Talent Development: Mechatronics, Electro Mechanical Design, A+ (40 hours/week for 6 weeks)
++ Sophomore Year:
+  + Admitted to Oakton Community College; Engineering Rotational Program- canceled due to covid (40 hours/week for 6 weeks)
++ Junior Year: 
+  + Rose Hulman Engineering program (40 hours/week for 2 weeks)
+
+**PASSIONS**
+
+Music | Animals | Weight-Lifting | Coding | Mathematics.
+
+US and Italian Citizen. Studying Spanish.
