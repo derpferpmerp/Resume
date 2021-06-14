@@ -5,7 +5,7 @@ Creative teen who is passionate about software development, music, and math.
 
 ## EDUCATION
 
-**Evanston Township High School** , _Evanston, IL. _
+**Evanston Township High School** , Evanston, IL.
 
 Currently a Senior. Anticipated graduation: 2022
 
