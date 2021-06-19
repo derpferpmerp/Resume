@@ -1,5 +1,5 @@
 ## COLE FLEMING
-[[ Website ]](beacons.page/colefleming) • [[ cmfleming@eths202.org ]](mailto:cmfleming@eths202.org)
+[[ Website ]](https://beacons.page/colefleming) • [[ cmfleming@eths202.org ]](mailto:cmfleming@eths202.org)
 
 Creative teen who is passionate about software development, music, and math.
 
