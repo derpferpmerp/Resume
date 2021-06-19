@@ -39,7 +39,7 @@ Graduate of The Class of 2018<br>
 
 Participation in school bands and annual recitals for both drums and piano. Private piano and drum lessons weekly for 10 years.
 
-3 hours/week. 12 hours/month. 132 hours/year. (Take off one month per year.) 
+3 hours/week. 12 hours/month. 132 hours/year. (Take off one month per year.)<br>
 **Position**: *Private student with two piano instructors and one drums.*
 
 **School Involvement and Sports:**
