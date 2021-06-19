@@ -35,12 +35,10 @@ Graduate of The Class of 2018<br>
 
 **ACTIVITES**
 
-**Piano and Drums study and performance: Active musician.**
-
-Participation in school bands and annual recitals for both drums and piano. Private piano and drum lessons weekly for 10 years.
-
-3 hours/week. 12 hours/month. 132 hours/year. (Take off one month per year.)<br>
-**Position**: *Private student with two piano instructors and one drums.*
++ **Piano and Drums study and performance** - *Active musician*
+  + Participation in school bands and annual recitals for both drums and piano.
+  + 5 hours/week. 20 hours/month. 220 hours/year. (Take off one month per year.)<br>
+  + **Position**: *Private student with two piano instructors and one drums.*
 
 **School Involvement and Sports:**
 
