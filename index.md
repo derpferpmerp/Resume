@@ -5,10 +5,10 @@ Creative teen who is passionate about software development, music, and math.
 
 ## EDUCATION
 
-**Evanston Township High School** , *Evanston, IL*
-Currently a Senior. Anticipated graduation: 2022
-**North Shore Country Day,** *Winnetka, IL*
-Graduate of The Class of 2018
+**Evanston Township High School** , *Evanston, IL*<br>
+Currently a Senior. Anticipated graduation: 2022<br>
+**North Shore Country Day,** *Winnetka, IL*<br>
+Graduate of The Class of 2018<br>
 
 **AWARDS + HONORS**
 
