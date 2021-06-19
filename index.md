@@ -5,11 +5,10 @@ Creative teen who is passionate about software development, music, and math.
 
 ## EDUCATION
 
-+ **Evanston Township High School** , *Evanston, IL*
-  + Currently a Senior. Anticipated graduation: 2022
-+ **North Shore Country Day,** *Winnetka, IL*
-
-Graduate - 2018
+**Evanston Township High School** , *Evanston, IL*
+Currently a Senior. Anticipated graduation: 2022
+**North Shore Country Day,** *Winnetka, IL*
+Graduate of The Class of 2018
 
 **AWARDS + HONORS**
 
@@ -58,11 +57,11 @@ Participation in school bands and annual recitals for both drums and piano. Priv
 
 **Summer Engineering Programs:**
 
-+ Freshman Year:
++ **Freshman Year**:
   + Northwestern Center for Talent Development: Mechatronics, Electro Mechanical Design, A+ (40 hours/week for 6 weeks)
-+ Sophomore Year:
++ **Sophomore Year**:
   + Admitted to Oakton Community College; Engineering Rotational Program- canceled due to covid (40 hours/week for 6 weeks)
-+ Junior Year: 
++ **Junior Year**: 
   + Rose Hulman Engineering program (40 hours/week for 2 weeks)
 
 **PASSIONS**
